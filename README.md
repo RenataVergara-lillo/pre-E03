@@ -1,6 +1,7 @@
 # pre-E03
-Tequila
-![mexican mule](https://github.com/user-attachments/assets/54c7c43b-106d-4434-91c8-ac961bd9efe4)
+Tequila!
+[4246b121d2dc949b8f082c5f57840a3b_M](https://github.com/user-attachments/assets/a6d993fa-dc7d-4de3-83d8-394e803c1f67)
+
 ![margarita](https://github.com/user-attachments/assets/7aee45fd-7f1b-4870-a7fb-55f7e6b33b13)
 ![tequila-sunrise-1500x1500-hero-eeae10efeb134a3e9d5a3852b1b6e7dc](https://github.com/user-attachments/assets/112dca92-49e8-4476-b84c-784c5f0bd2d4)
 Martini
@@ -14,4 +15,5 @@ Ron
 Vodka
 ![vodka tonic](https://github.com/user-attachments/assets/5e86dee8-9e88-46e1-b1ab-f2d28ebaa42c)
 ![moscow mule](https://github.com/user-attachments/assets/b1a73a6d-feb6-48b8-9e0e-e06334bcbec5)
-![side-view-red-martini-cocktail-glass-with-lemon-red-berries](https://github.com/user-attachments/assets/50977b00-7fc4-4e14-9958-4abffc7bc06b)
+cosmopolitan ![Cosmopolitan-Cocktail-from-Below](https://github.com/user-attachments/assets/c5ab6ace-20fa-40e1-9e29-72598abc7f9d)
+
