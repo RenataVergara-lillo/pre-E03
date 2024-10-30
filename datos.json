@@ -1,0 +1,110 @@
+[
+    {
+        "nombre": "Mojito",
+        "descripcion": "Ingredientes: 45 ml de ron blanco, 1 cucharada de azúcar, 6-8 hojas de menta, 30 ml de jugo de lima, agua con gas, hielo, ramita de menta y rodaja de lima para decorar. Paso a Paso: 1. En un vaso alto, coloca las hojas de menta y el azúcar. 2. Agrega el jugo de lima y, con una cuchara o un mortero, presiona suavemente para liberar los aromas de la menta sin triturarla demasiado. 3. Llena el vaso con hielo, añade el ron y completa con agua con gas. 4. Revuelve suavemente y decora con una ramita de menta y una rodaja de lima.",
+        "fecha": "2024",
+        "signo": "ron",
+        "foto": "https://github.com/user-attachments/assets/3357077a-8a2c-43a7-92cc-61f7ac5f0ab9",
+        "fotos": ["mojito-0.jpg","mojito-1.jpg","mojito-2.jpg","mojito-3.jpg"],
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "Daiquiri",
+        "descripcion": "Ingredientes: 60 ml de ron blanco, 30 ml de jugo de lima, 15 ml de jarabe de azúcar, hielo, rodaja de lima para decorar. Paso a Paso: 1. Coloca el ron, el jugo de lima y el jarabe de azúcar en una coctelera con hielo. 2. Agita vigorosamente durante 15-20 segundos. 3. Cuela en una copa de cóctel fría y decora con una rodaja de lima.",        
+        "fecha": "2024",
+        "signo": "ron",
+        "foto": "https://github.com/user-attachments/assets/713076b6-b515-48f8-91e7-b97ec3dddb3d",
+        "fotos": ["daiquiri-0.jpg","daiquiri-1.jpg","daiquiri-2.jpg","daiquiri-3.jpg"],
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "Piña Colada",
+        "descripcion": "Ingredientes: 60 ml de ron blanco, 90 ml de jugo de piña, 60 ml de crema de coco, hielo, trozo de piña y cereza para decorar. Paso a Paso: 1. En una licuadora, combina el ron, jugo de piña, crema de coco y una taza de hielo. 2. Licúa hasta obtener una textura suave y cremosa. 3. Vierte la mezcla en un vaso alto y decora con un trozo de piña y una cereza.",
+        "fecha": "2024",
+        "signo": "ron",
+        "foto": "https://github.com/user-attachments/assets/78d4f6ee-f966-45b4-a3c3-faee0846c2bd",
+        "fotos": ["pinacolada-0.jpg","pinacolada-1.jpg","pinacolada-2.jpg","pinacolada-3.jpg"],
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "Moscow Mule",
+        "descripcion": "Ingredientes: 45 ml de vodka, 120 ml de cerveza de jengibre, 15 ml de jugo de lima, rodaja de lima para decorar. Paso a Paso: 1. Llena una taza de cobre o vaso alto con hielo. 2. Agrega el vodka y el jugo de lima, y completa con cerveza de jengibre. 3. Revuelve suavemente y decora con una rodaja de lima.",
+        "fecha": "2024",
+        "signo": "vodka",
+        "foto": "https://github.com/user-attachments/assets/b1a73a6d-feb6-48b8-9e0e-e06334bcbec5",
+        "fotos": ["moscow-0.jpg","moscow-1.jpg","moscow-2.jpg","moscow-3.jpg"],
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "Cosmopolitan",
+        "descripcion": "Ingredientes: 45 ml de vodka, 15 ml de licor de naranja, 30 ml de jugo de arándano, 10 ml de jugo de lima, hielo, twist de limón para decorar. Paso a Paso: 1. Coloca el vodka, licor de naranja, jugo de arándano y jugo de lima en una coctelera con hielo. 2. Agita vigorosamente durante 10-15 segundos. 3. Cuela en una copa de cóctel fría y decora con un twist de limón.",
+        "fecha": "2022",
+        "signo": "vodka",
+        "foto": "https://github.com/user-attachments/assets/c5ab6ace-20fa-40e1-9e29-72598abc7f9d",
+        "fotos": ["cosmopolitan-0.jpg","cosmopolitan-1.jpg","cosmopolitan-2.jpg","cosmopolitan-3.jpg"],
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "Vodka Tonic",
+        "descripcion": "Ingredientes: 45 ml de vodka, agua tónica, hielo, rodaja de limón o lima para decorar. Paso a Paso: 1. Llena un vaso alto con hielo. 2. Vierte el vodka sobre el hielo. 3. Completa el vaso con agua tónica, ajustando la cantidad al gusto. 4. Revuelve suavemente y decora con una rodaja de limón o lima.",       
+        "fecha": "2023",
+        "signo": "vodka",
+        "foto": "https://github.com/user-attachments/assets/5e86dee8-9e88-46e1-b1ab-f2d28ebaa42c",
+        "fotos": ["vodka-0.jpg","vodka-1.jpg","vodka-2.jpg","vodka-3.jpg"],
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "Margarita",
+        "descripcion": "Ingredientes: 45 ml de tequila, 30 ml de licor de naranja, 15 ml de jugo de lima, sal, hielo, rodaja de lima para decorar. Paso a Paso: 1. Escarcha el borde de una copa de Margarita con sal. 2. Coloca el tequila, licor de naranja y jugo de lima en una coctelera con hielo. 3. Agita bien y cuela en la copa escarchada. Decora con una rodaja de lima.",
+        "fecha": "2022",
+        "signo": "tequila",
+        "foto": "https://github.com/user-attachments/assets/7aee45fd-7f1b-4870-a7fb-55f7e6b33b13",
+        "fotos": ["margarita-0.jpg","margarita-1.jpg","margarita-2.jpg","margarita-3.jpg"],
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "Tequila Sunrise",
+        "descripcion": "Ingredientes: 45 ml de tequila, 90 ml de jugo de naranja, 15 ml de granadina, hielo, rodaja de naranja y cereza para decorar. Paso a Paso: 1. Llena un vaso alto con hielo y agrega el tequila y el jugo de naranja. 2. Añade lentamente la granadina, permitiendo que se asiente en el fondo. 3. Decora con una rodaja de naranja y una cereza.",
+        "fecha": "2022",
+        "signo": "tequila",
+        "foto": "https://github.com/user-attachments/assets/112dca92-49e8-4476-b84c-784c5f0bd2d4",
+        "fotos": ["sunrise-0.jpg","sunrise-1.jpg","sunrise-2.jpg","sunrise-3.jpg"],
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "Paloma",
+        "descripcion": "Ingredientes: 45 ml de tequila, 90 ml de refresco de toronja, 15 ml de jugo de lima, sal, hielo, rodaja de toronja para decorar. Paso a Paso: 1. Escarcha el borde de un vaso alto con sal y llénalo con hielo. 2. Añade el tequila y el jugo de lima, y completa con el refresco de toronja. 3. Revuelve y decora con una rodaja de toronja.",
+        "fecha": "2024",
+        "signo": "tequila",
+        "foto": "https://github.com/user-attachments/assets/a6d993fa-dc7d-4de3-83d8-394e803c1f67",
+        "fotos": ["paloma-0.jpg","paloma-1.jpg","paloma-2.jpg"],
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "Dry Martini",
+        "descripcion": "Ingredientes: 60 ml de gin, 10 ml de vermut seco, hielo, aceituna o twist de limón para decorar. Paso a Paso: 1. En un vaso mezclador con hielo, añade el gin y el vermut. 2. Remueve suavemente para enfriar, evitando agitar. 3. Cuela en una copa de Martini fría. 4. Decora con una aceituna o un twist de limón.",
+        "fecha": "2023",
+        "signo": "martini",
+        "foto": "https://github.com/user-attachments/assets/3c167116-2fe8-4eee-bef8-98f25d63e438",
+        "fotos": ["martini-0.jpg","martini-1.jpg","martini-2.jpg","martini-3.jpg"],
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "Negroni Martini Rosso",
+        "descripcion": "Ingredientes: 30 ml de gin, 30 ml de vermut rojo (dulce), 30 ml de Campari, hielo, cáscara de naranja o rodaja de naranja para decorar Paso a Paso: 1. Preparar el vaso: Llena un vaso mezclador con hielo para enfriarlo. 2. Mezclar los ingredientes: Vierte el gin, el vermut rojo y el Campari en el vaso mezclador. 3. Remover: Con una cuchara de bar, revuelve suavemente la mezcla durante unos 30 segundos para enfriar y diluir un poco el cóctel. 4. Colar: Cuela la mezcla en una copa de Martini fría. 5. Decorar: Exprime una cáscara de naranja sobre el cóctel para liberar los aceites esenciales y luego colócala en la bebida como decoración, o usa una rodaja de naranja.",
+        "fecha": "2024",
+        "signo": "martini",
+        "foto": "https://github.com/user-attachments/assets/f74d34d4-143b-403f-b100-ccd453d09c0e",
+        "fotos": ["martinirosso-0.jpg","martinirosso-1.jpg","martinirosso-2.jpg","martinirosso-3.jpg"],
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "Espresso Martini",
+        "descripcion": "Ingredientes: 45 ml de vodka, 30 ml de café espresso recién hecho, 15 ml de licor de café, hielo, granos de café para decorar. Paso a Paso: 1. En una coctelera con hielo, añade el vodka, café espresso y licor de café. 2. Agita vigorosamente durante 10-15 segundos para lograr una textura espumosa. 3. Cuela en una copa de Martini fría. 4. Decora con algunos granos de café en la superficie.",
+        "fecha": "2024",
+        "signo": "martini",
+        "foto": "https://github.com/user-attachments/assets/4a4aa421-cdcb-49ef-8ff5-ca7656892d14",
+        "fotos": ["espresso-0.jpg","espresso-1.jpg","espresso-2.jpg","espresso-3.jpg"],
+        "github": "https://github.com/RenataVergara-lillo"
+    }
+]
